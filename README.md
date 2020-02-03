@@ -2,9 +2,9 @@
 
 # [PWA](#)
 
-## INSTALLATION
+## INSTALAÇÃO
 
-1. Clone this repo
+1. Clone este repositório
 
   ```bash
   git clone https://github.com/KevinStoneTech/pwa
