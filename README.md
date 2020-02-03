@@ -7,7 +7,7 @@
 1. Clone this repo
 
   ```bash
-  git clone https://github.com/davidsonbpe/pwa
+  git clone https://github.com/KevinStoneTech/pwa
   ```
 
 
@@ -20,16 +20,3 @@
   <script src="./pwa.dev.min.js"></script>
   <script> if (navigator.serviceWorker) { navigator.serviceWorker.register ('./sw.js') } </script>
   ```
-
-## TUTORIAL
-
-1. Veja video tutorial Completo neste link
-
-* [CANAL DECOM TV](https://www.youtube.com/channel/UCHqvw9v2Fp6o006lUskoigg/)
-
-* [DEMO](https://davidsonbpe.github.io/)
-
-## DEVELOPER
-
-* [@davidsonbpe](https://github.com/davidsonbpe)
-
